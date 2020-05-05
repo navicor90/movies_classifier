@@ -1,0 +1,1 @@
+We will try to solve the Large Movie Review Dataset v1.0 task (Mass et al., 2011). The dataset consists of IMDB movie reviews labeled by positivity from 1 to 10. The task is to label the reviews as negative or positive.
